@@ -1,5 +1,7 @@
 /// @description step
-
+if (image_alpha < 1) {
+image_alpha +=0.02;	
+}
 var _nearest_enemy = instance_find_enemy(ship_parent);
 move_towards_ship(_nearest_enemy);
 

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "000db8cc-edc5-4b96-9217-6e4c0e4a1cb5",
+            "Value": {
+                "id": "5c5d49e2-950d-4b0d-9ca1-ab0558ce0991",
+                "resourcePath": "scripts\\spawn_red_ship\\spawn_red_ship.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "10a521e6-b9b7-4a46-84bf-9457f8e89dcf",
             "Value": {
                 "id": "6ff9ed5a-fe16-43a7-b039-b584abedef18",
@@ -44,6 +52,14 @@
                 "id": "6de64c11-8ff0-4ec6-b0aa-b04affd68d34",
                 "resourcePath": "sprites\\s_fighter_yellow\\s_fighter_yellow.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "1712874f-3321-4212-89dd-bb4a0ccd282e",
+            "Value": {
+                "id": "7335c53f-6dc3-4d8b-8a8b-2956f32adb1c",
+                "resourcePath": "scripts\\spawn_purple_ship\\spawn_purple_ship.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "41c4c9f7-e23d-4964-ac3b-bc79386478ee",
+            "Value": {
+                "id": "d559cb3a-ea08-4e83-87a7-f99a490f3cd5",
+                "resourcePath": "sprites\\s_hyperspace\\s_hyperspace.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "447313eb-4d0e-489f-8b47-f766249fa1ed",
             "Value": {
                 "id": "c5255be1-42b0-4d8b-b2b5-df213b621ced",
@@ -228,6 +252,14 @@
                 "id": "28527e54-088c-444e-849f-fb3050358bed",
                 "resourcePath": "sprites\\s_player_4\\s_player_4.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4f1df441-2ec3-4b91-bcd6-263bd74728c6",
+            "Value": {
+                "id": "a0646f3c-9817-43c1-93af-a2e340f4b565",
+                "resourcePath": "objects\\o_spawnzone_red\\o_spawnzone_red.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -343,11 +375,27 @@
             }
         },
         {
+            "Key": "6574352b-40fd-476f-8341-f16a2dd6f988",
+            "Value": {
+                "id": "77b448fc-bb8d-42f2-82a5-1264f353e2b3",
+                "resourcePath": "objects\\o_slider_faction_amount\\o_slider_faction_amount.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "68dd03c4-d464-4244-af8b-0c116e3a7603",
             "Value": {
                 "id": "ea1fae4a-acc5-4881-a8ed-6a1be3596ee0",
                 "resourcePath": "sprites\\s_blue_fighter_weapon\\s_blue_fighter_weapon.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "69af7a45-fa11-4ae6-a3e0-5be5a7e4060e",
+            "Value": {
+                "id": "0fb6ff54-5738-457a-bf73-c940f7adb40d",
+                "resourcePath": "objects\\o_spawnzone_purple\\o_spawnzone_purple.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -372,6 +420,14 @@
                 "id": "51c7af57-3470-4f09-9194-2318f33d5646",
                 "resourcePath": "views\\6e1fe86a-414c-48e8-99c1-f63a2735e7ae.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6e31d012-e591-42e0-b153-a96d4ccc5f34",
+            "Value": {
+                "id": "64becfeb-15d7-4ba8-ade8-636d7948808e",
+                "resourcePath": "objects\\o_slider_spawn_mechanics\\o_slider_spawn_mechanics.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -431,6 +487,14 @@
             }
         },
         {
+            "Key": "7c2185fb-fe31-453a-8385-a7ad99ef633c",
+            "Value": {
+                "id": "c0ae69a7-ee95-4886-ab2e-f502aacc604d",
+                "resourcePath": "objects\\o_spawnzone_yellow\\o_spawnzone_yellow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "82a9e493-7930-4cfd-ba7b-3cb4b2508dc5",
             "Value": {
                 "id": "e4026970-9158-4db5-8ee1-247f247b1ee5",
@@ -444,6 +508,14 @@
                 "id": "f7eb60b2-8001-4998-ba1e-19b2f372b22d",
                 "resourcePath": "views\\82af0753-b3df-422b-8db6-26de561bada9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8d476c6d-0f6f-4f14-ae7f-aa3ba77da8ec",
+            "Value": {
+                "id": "db014113-5bfb-4fff-a41a-6a33ecce8a41",
+                "resourcePath": "objects\\o_spawnzone_blue\\o_spawnzone_blue.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -571,6 +643,14 @@
             "Value": {
                 "id": "16dfc041-4bc8-46d9-a18f-d76ea2d41b19",
                 "resourcePath": "objects\\LASER\\LASER.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a7b38e99-ff81-48af-adcc-43079f350e4c",
+            "Value": {
+                "id": "aa7c2b80-296a-4097-9d48-14bb261ef159",
+                "resourcePath": "objects\\o_slider_battle_type\\o_slider_battle_type.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -703,6 +783,14 @@
             }
         },
         {
+            "Key": "db648113-5959-4b5d-a5b3-168d643d866f",
+            "Value": {
+                "id": "e60c6f57-6cd0-438d-9e58-fca8d4f32741",
+                "resourcePath": "scripts\\spawn_blue_ship\\spawn_blue_ship.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "db734917-206d-4c39-b687-21eff90436cf",
             "Value": {
                 "id": "b58ce4db-bb58-47c9-9fc7-694762b69b20",
@@ -799,6 +887,14 @@
             }
         },
         {
+            "Key": "eca99f69-b601-48fa-a23d-979c775c1697",
+            "Value": {
+                "id": "f540d07c-b014-4f91-ba51-a0d078f96f7e",
+                "resourcePath": "scripts\\spawn_yellow_ship\\spawn_yellow_ship.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "edee27a7-9eee-4b46-863d-83eaca2c9c23",
             "Value": {
                 "id": "538e24d4-b798-42ae-83e5-b69d17083cc0",
@@ -871,7 +967,11 @@
         "bd1ef486-b620-4df7-b8b3-cf080c117bc5",
         "8e0f66b7-609d-4e4e-8321-12f1398813cc",
         "a889cadf-a621-4004-97b9-720216936c45",
-        "2117f667-041c-4177-b353-569f8b7f2ff4"
+        "2117f667-041c-4177-b353-569f8b7f2ff4",
+        "db648113-5959-4b5d-a5b3-168d643d866f",
+        "000db8cc-edc5-4b96-9217-6e4c0e4a1cb5",
+        "1712874f-3321-4212-89dd-bb4a0ccd282e",
+        "eca99f69-b601-48fa-a23d-979c775c1697"
     ],
     "tutorial": ""
 }

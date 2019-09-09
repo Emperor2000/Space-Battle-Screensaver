@@ -3,7 +3,7 @@
 
 //screensaver
 global.combat_size = 0;
-global.faction_amount = 2;
+//global.faction_amount = 4;
 global.join_battle = false;
 
 global.game_scale = 2;
