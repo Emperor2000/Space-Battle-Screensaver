@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "825b47ac-0012-4f49-a9c5-aecf9c3ff4c1",
+            "Value": {
+                "id": "c7255628-f584-450e-b517-347af926a086",
+                "resourcePath": "scripts\\move_away_from_ship\\move_away_from_ship.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "82a9e493-7930-4cfd-ba7b-3cb4b2508dc5",
             "Value": {
                 "id": "e4026970-9158-4db5-8ee1-247f247b1ee5",
@@ -966,6 +974,7 @@
         "46107d2c-450c-4154-95e1-6c67d64d9724",
         "bd1ef486-b620-4df7-b8b3-cf080c117bc5",
         "8e0f66b7-609d-4e4e-8321-12f1398813cc",
+        "825b47ac-0012-4f49-a9c5-aecf9c3ff4c1",
         "a889cadf-a621-4004-97b9-720216936c45",
         "2117f667-041c-4177-b353-569f8b7f2ff4",
         "db648113-5959-4b5d-a5b3-168d643d866f",
