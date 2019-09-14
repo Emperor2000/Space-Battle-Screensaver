@@ -29,7 +29,7 @@ WEAPON_FIRERATE = noone;
 enable_fire = true;
 has_target = false;
 target_instance = noone;
-
+image_alpha = 0;
 
 
 

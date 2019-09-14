@@ -5,14 +5,14 @@
 
 
 //range
-global.fallback_range = 25;
-global.laser_range = 250;
+global.fallback_range = 25;	//retreat range
+global.laser_range = 250;	//laser attack range
 //screensaver
-global.combat_size = 0;
+global.combat_size = 0;		//combat size initial value
 //global.faction_amount = 4;
-global.join_battle = false;
+global.join_battle = false; //WORK IN PROGRESS - allows the player to compete in battles
 
-global.game_scale = 2;
+global.game_scale = 2;		//global game scale
 
 
 

@@ -231,14 +231,6 @@
             }
         },
         {
-            "Key": "4e45f79c-3e7c-45ed-a7cf-17ac6ccc60de",
-            "Value": {
-                "id": "ee5107d8-a5f5-408c-b95f-a2072c0c8900",
-                "resourcePath": "objects\\o_blue_fighter_laser_ship\\o_blue_fighter_laser_ship.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "4e70f911-91c7-42c5-9087-40f4e2262186",
             "Value": {
                 "id": "e1f5a501-5aeb-40c0-98a9-3ef254c470fc",
@@ -330,15 +322,7 @@
             "Key": "574103b1-aac7-47b0-ae66-e25d0987cc07",
             "Value": {
                 "id": "742ddaf8-cf06-4de7-9936-54b0d664c3b2",
-                "resourcePath": "objects\\o_purple_fighter_laser_ship_save\\o_purple_fighter_laser_ship_save.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "57ed2320-3efa-43f2-837d-b1bc5bf5e9f9",
-            "Value": {
-                "id": "25620f98-4f8c-42b0-bcd0-25c2e86e740a",
-                "resourcePath": "objects\\o_red_fighter_laser_ship1\\o_red_fighter_laser_ship1.yy",
+                "resourcePath": "objects\\o_purple_fighter_laser_ship\\o_purple_fighter_laser_ship.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -407,14 +391,6 @@
             }
         },
         {
-            "Key": "6d5197c0-d238-4620-8d93-201ebd3e98e4",
-            "Value": {
-                "id": "3e44c53c-f99a-451a-8285-b865360a68ec",
-                "resourcePath": "objects\\o_purple_fighter_laser_ship\\o_purple_fighter_laser_ship.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "6e1fe86a-414c-48e8-99c1-f63a2735e7ae",
             "Value": {
                 "id": "51c7af57-3470-4f09-9194-2318f33d5646",
@@ -434,7 +410,7 @@
             "Key": "720fde38-4cd8-43ee-9c80-bf6b07ed25e0",
             "Value": {
                 "id": "0bd0c848-8f14-4351-8d4e-5eeae1af1833",
-                "resourcePath": "objects\\o_yellow_fighter_laser_ship_save\\o_yellow_fighter_laser_ship_save.yy",
+                "resourcePath": "objects\\o_yellow_fighter_laser_ship\\o_yellow_fighter_laser_ship.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -535,14 +511,6 @@
             }
         },
         {
-            "Key": "8e910083-da1a-4c77-bd30-10df02e5ec7a",
-            "Value": {
-                "id": "66065d0d-3fc3-439b-b912-a5550eac898e",
-                "resourcePath": "objects\\o_red_fighter_laser_ship\\o_red_fighter_laser_ship.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "911a509c-6eb0-493c-aa17-adf430885460",
             "Value": {
                 "id": "48505bdc-2e39-4bb1-9c87-723950341fa9",
@@ -634,15 +602,7 @@
             "Key": "a37659a9-bca1-4979-b78e-3a28d9dac222",
             "Value": {
                 "id": "3b6eeb78-cc18-46d2-b5b3-b7befff2b1aa",
-                "resourcePath": "objects\\o_red_fighter_laser_ship_save\\o_red_fighter_laser_ship_save.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "a3c864fd-4208-4d1b-a47d-4d46400cc480",
-            "Value": {
-                "id": "873fa713-a67c-4f3d-8b31-114218f37c05",
-                "resourcePath": "objects\\o_yellow_fighter_laser_ship\\o_yellow_fighter_laser_ship.yy",
+                "resourcePath": "objects\\o_red_fighter_laser_ship\\o_red_fighter_laser_ship.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -690,7 +650,7 @@
             "Key": "ad847c4f-4bca-4350-8618-04562a9c0e4a",
             "Value": {
                 "id": "e9b6a86b-6330-4c74-9931-b8b80d3c9810",
-                "resourcePath": "objects\\o_blue_fighter_laser_ship_save\\o_blue_fighter_laser_ship_save.yy",
+                "resourcePath": "objects\\o_blue_fighter_laser_ship\\o_blue_fighter_laser_ship.yy",
                 "resourceType": "GMObject"
             }
         },

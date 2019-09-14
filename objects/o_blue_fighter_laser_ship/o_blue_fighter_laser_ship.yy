@@ -1,48 +1,48 @@
 {
-    "id": "4e45f79c-3e7c-45ed-a7cf-17ac6ccc60de",
+    "id": "ad847c4f-4bca-4350-8618-04562a9c0e4a",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "o_blue_fighter_laser_ship",
     "eventList": [
         {
-            "id": "6df9eda1-f172-4ca0-8f9f-1e51a9900990",
+            "id": "e91b18a5-6b92-4ea7-ae48-fb860119253c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4e45f79c-3e7c-45ed-a7cf-17ac6ccc60de"
+            "m_owner": "ad847c4f-4bca-4350-8618-04562a9c0e4a"
         },
         {
-            "id": "97f1773b-0c5d-40cd-8af0-7b9bc07c4aec",
+            "id": "9845dfc8-7093-476a-a63e-61d8253a4e6e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "4e45f79c-3e7c-45ed-a7cf-17ac6ccc60de"
+            "m_owner": "ad847c4f-4bca-4350-8618-04562a9c0e4a"
         },
         {
-            "id": "d36ef10f-a5a1-4ccb-ac39-bce6ee14b5a7",
+            "id": "8ef5c8d9-853c-48d4-af5b-7d302f541a3f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "3132d226-36fe-4940-8254-fb47591a103a",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "4e45f79c-3e7c-45ed-a7cf-17ac6ccc60de"
+            "m_owner": "ad847c4f-4bca-4350-8618-04562a9c0e4a"
         },
         {
-            "id": "0f7994b0-f412-4acb-ba8b-30deb3afc8df",
+            "id": "50fb9bc9-bf2e-4421-bbcd-d098dc07d37c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "4e45f79c-3e7c-45ed-a7cf-17ac6ccc60de"
+            "m_owner": "ad847c4f-4bca-4350-8618-04562a9c0e4a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -61,28 +61,28 @@
     "physicsShape": 1,
     "physicsShapePoints": [
         {
-            "id": "d1f3d042-b34f-4ff0-bacf-26ba39cb0772",
+            "id": "74bb2775-bb1b-4b48-9cad-558bffd6089d",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
             "y": 0
         },
         {
-            "id": "692a0822-7598-4437-be5d-47bad06a615b",
+            "id": "559af729-14fd-49da-b41e-02eede7b7a79",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 32,
             "y": 0
         },
         {
-            "id": "a9c4ffc6-7d9a-4bbe-b683-cd948673d8de",
+            "id": "89d47fcb-199b-417d-a571-2364301eb789",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 32,
             "y": 32
         },
         {
-            "id": "37f76918-20c1-4604-9e01-1b89704f7391",
+            "id": "30594f9d-8b66-496b-a97a-d3f1cc72dcc8",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,

@@ -1,6 +1,8 @@
 ///@description ship variables
 image_xscale = 2;
 image_yscale = 2;
+image_alpha = 0;
+
 //movement::
 max_speed = 1.5;
 acceleration = 0.05;
