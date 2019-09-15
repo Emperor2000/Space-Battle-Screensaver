@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "21f6f03b-46cc-418a-9851-c919bc84d868",
+            "Value": {
+                "id": "1cbf3e14-a42c-408b-ad72-1f8aba23d219",
+                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "25c36428-5b35-4c75-8735-c2eaa764d913",
             "Value": {
                 "id": "954e0a47-2adb-482c-a482-78c42f9259ae",
@@ -124,6 +132,14 @@
                 "id": "ab8a5b4c-3640-4776-b425-bc92bc124bd7",
                 "resourcePath": "views\\27ec502e-6c3e-484c-9968-1c75580770da.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2837227c-f63b-4aa3-9426-0ac6c76dcc9c",
+            "Value": {
+                "id": "4ad768f3-7362-4a0a-bf55-8a659801e79b",
+                "resourcePath": "objects\\o_flock_demo_init\\o_flock_demo_init.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -359,6 +375,14 @@
             }
         },
         {
+            "Key": "65731edb-c2ff-42b6-9864-1aeb499f6983",
+            "Value": {
+                "id": "ab49b0fb-5441-4111-82dc-a1d5802c1ddb",
+                "resourcePath": "objects\\o_blue_fighter_flock_demo\\o_blue_fighter_flock_demo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6574352b-40fd-476f-8341-f16a2dd6f988",
             "Value": {
                 "id": "77b448fc-bb8d-42f2-82a5-1264f353e2b3",
@@ -411,6 +435,14 @@
             "Value": {
                 "id": "0bd0c848-8f14-4351-8d4e-5eeae1af1833",
                 "resourcePath": "objects\\o_yellow_fighter_laser_ship\\o_yellow_fighter_laser_ship.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "73b43026-0600-44f3-aa5d-679e60096a25",
+            "Value": {
+                "id": "bf298ad1-4b13-4902-9e61-b483468230f0",
+                "resourcePath": "objects\\o_blue_fighter_laser_ship_HiveDemo\\o_blue_fighter_laser_ship_HiveDemo.yy",
                 "resourceType": "GMObject"
             }
         },
