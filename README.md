@@ -7,8 +7,6 @@
 **How is this achieved?**
 Each class contains a number of properties. You can easily add new functionality by editing the base class or creating a child object of the base class, which you can then edit. This way you can create new unique objects in a matter of minutes. For example, adding multiple types of enemies, new factions, etc.
 
-I have tried to make the code as easy to understand as possible and as easy to edit.
-
 **Can I use this?**
 You are allowed to use this tool for:
 
