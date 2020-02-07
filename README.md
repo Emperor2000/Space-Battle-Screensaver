@@ -1,13 +1,13 @@
-**Space Battle Screensaver | Space Combat Engine  **
+**Space Battle Screensaver | Space Combat Engine**
 -------------------------------------------
-**What is this all about?  **
+**What is this all about?**
 "Space Combat Engine", formerly "Space Battle Screensaver" is an extension/project written on top of Game Maker Studio 2 with a focus on being able to create a game that requires multiple factions, large battles and tons of explosions fast.
 
 -------------------------------------------
-**How is this achieved?  **
+**How is this achieved?**
 Programming concepts such as inheritance and polymorphism have been utilized which allows users to easily extend a base class with properties and edit it to their liking. This way you can create new enemy units in a matter of minutes.
 
-**Can I use this?  **
+**Can I use this?**
 You are allowed to use this tool for:
 
 -Creating a game in Game Maker Studio 2 (or studio 1.4).
