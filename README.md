@@ -16,7 +16,6 @@ You are allowed to use this tool for:
 -------------------------------------------
 You are not allowed to:
 -Redistribute the source code, commercially or non-commercially in any way, shape or form.
--Include this source code in another package.
 
 -------------------------------------------
 **Questions, business inquiries or concerns?**
