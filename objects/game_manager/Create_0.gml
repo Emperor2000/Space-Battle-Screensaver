@@ -1,12 +1,23 @@
 /// @description constants, globals, savedata, etc.
 
+//retreat
 
+
+
+//range
+global.fallback_range = 25;
+global.laser_range = 250;
 //screensaver
 global.combat_size = 0;
 //global.faction_amount = 4;
 global.join_battle = false;
 
 global.game_scale = 2;
+
+
+
+
+
 
 #region Weapons
 enum WEAPON_TYPE {		//enum for different weapon types.

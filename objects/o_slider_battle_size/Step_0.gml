@@ -20,6 +20,6 @@ if (!mouse_check_button(mb_left)) {
 if (selected) {
 	value = clamp((mouse_x-x) / sprite_width, 0, max_value);
 	event_user(0);
-	global.combat_size = 1 + round(value*200);
+	global.combat_size =/* 1 + */ round(value*200);
 }
 

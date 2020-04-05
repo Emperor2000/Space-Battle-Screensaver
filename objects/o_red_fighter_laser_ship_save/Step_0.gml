@@ -6,14 +6,23 @@ var _nearest_enemy = instance_find_enemy(ship_parent);
 move_towards_ship(_nearest_enemy);
 
 if (instance_exists(_nearest_enemy)) {
-	if (point_distance(id.x, id.y, _nearest_enemy.x, _nearest_enemy.y) < 100) {
+		move_towards_ship(_nearest_enemy);
+	if (point_distance(id.x, id.y, _nearest_enemy.x, _nearest_enemy.y) < global.laser_range) {
 		if (enable_fire == true) {
-		create_laser_red();
-		alarm[0] = global.LASER_CLD;
-		enable_fire = false;
+			create_laser_red();
+			alarm[0] = global.LASER_CLD;
+			enable_fire = false;
 		}
 	}
-}
+	
+	
+	
+		if (point_distance(id.x, id.y, _nearest_enemy.x, _nearest_enemy.y) < global.fallback_range) {
+			move_away_from_ship(_nearest_enemy);
+		}
+		
+	}
+
 
 
 if (hp <= 0) {

@@ -106,18 +106,18 @@ if (global.transform_battle_type == 0) {
 				//instance_create_layer(irandom_range(0, room_width), irandom_range(0, room_height), "Instances", o_yellow_fighter_laser_ship_save);
 			}
 		
-			if (instance_number(o_blue_fighter_laser_ship_save) == 0) {
+			if (instance_number(o_blue_fighter_laser_ship_save) == 0 && (instance_number(o_red_fighter_laser_ship_save) == 0)) {
 				instance_destroy(ship_parent);
 			}
-			if (instance_number(o_red_fighter_laser_ship_save) == 0) {
+			if (instance_number(o_red_fighter_laser_ship_save) == 0 && (instance_number(o_purple_fighter_laser_ship_save) == 0)) {
 				instance_destroy(ship_parent);
 			}
 		
-			if (instance_number(o_purple_fighter_laser_ship_save) == 0) {
-			instance_destroy(ship_parent);
+			if (instance_number(o_purple_fighter_laser_ship_save) == 0 && (instance_number(o_blue_fighter_laser_ship_save) == 0)) {
+				instance_destroy(ship_parent);
 			}
 	
-			if (instance_number(o_yellow_fighter_laser_ship_save) == 0) {
+			if (instance_number(o_yellow_fighter_laser_ship_save) == 0 && (instance_number(o_red_fighter_laser_ship_save) == 0) && (instance_number(o_blue_fighter_laser_ship_save) == 0)) {
 			instance_destroy(ship_parent);
 			}
 		
