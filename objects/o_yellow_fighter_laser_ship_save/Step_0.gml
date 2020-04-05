@@ -12,7 +12,14 @@ move_towards_ship(_nearest_enemy);
 			enable_fire = false;
 			}
 		}
+		
+		
+			if (point_distance(id.x, id.y, _nearest_enemy.x, _nearest_enemy.y) < global.fallback_range) {
+				move_away_from_ship(_nearest_enemy);
+		}
 	}
+
+
 
 
 if (hp <= 0) {
