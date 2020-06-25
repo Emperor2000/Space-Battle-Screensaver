@@ -11,7 +11,7 @@ Each class contains a number of properties. You can easily add new functionality
 You are allowed to use this tool for:  
 
 -Creating a game in Game Maker Studio 2 (or studio 1.4).  
--Commercially or non-commercially selling a game that you developed using this extension.  
+-Commercially or non-commercially selling a game that you developed using this extension, provided you do not claim any of the code that you did not write as your own.
 
 You are not allowed to:    
 -Redistribute the source code, commercially or non-commercially in any way, shape or form.  
