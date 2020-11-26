@@ -18,4 +18,4 @@ You are not allowed to:
 
 -------------------------------------------  
 **Questions, business inquiries or concerns?**  
-Please send an email to vincenthendriks2000+SpaceCE@gmail.com
+Please send an email to vincenthendriks2000@gmail.com
